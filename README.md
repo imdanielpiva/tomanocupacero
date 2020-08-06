@@ -11,20 +11,18 @@
 - Linux
 - Windows
 
-## Instalação
-Instalando globalmente:
-
-    npm install -g tomanocupacero
-
-## Running
-Run command:
-
-    tomanocupacero
-    
 ## Rodando com [npx](https://www.npmjs.com/package/npx)
 Rode o comando:
 
     npx tomanocupacero
+
+
+## Rodando via CLI
+Instale globalment e rode o comando:
+
+    npm install -g tomanocupacero
+
+    tomanocupacero
 
 
 ## Veja também
