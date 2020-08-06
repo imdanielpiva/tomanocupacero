@@ -1,5 +1,4 @@
-# tomanocupacero Command Line Sound
-
+# tomanocupacero™️
 <div style="text-align: center">
     <img src="./tomanocupacero.jpeg" height="300"/>
 </div>
