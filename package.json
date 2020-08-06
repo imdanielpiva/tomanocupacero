@@ -1,0 +1,29 @@
+{
+  "name": "tomanocupacero",
+  "version": "0.0.4",
+  "description": "Toma no cu pacero eu to chei de odio",
+  "main": "src/cli.js",
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imdanielpiva/tomanocupacero.git"
+  },
+  "keywords": [
+    "mc",
+    "poze"
+  ],
+  "author": "Daniel Piva <imdanielpiva@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "tomanocupacero": "./src/cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/imdanielpiva/tomanocupacero/issues"
+  },
+  "homepage": "https://github.com/imdanielpiva/tomanocupacero#readme",
+  "dependencies": {
+    "meow": "^7.0.1"
+  }
+}
