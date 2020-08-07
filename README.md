@@ -12,6 +12,8 @@
 - Windows
 
 ## Rodando com [npx](https://www.npmjs.com/package/npx)
+>O npx vem junto com o npm a partir da versão 5.2.0.
+
 Rode o comando:
 
     npx tomanocupacero
